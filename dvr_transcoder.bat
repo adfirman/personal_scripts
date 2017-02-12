@@ -1,0 +1,1 @@
+C:\Python27\python.exe C:\python_scripts\dvr_transcoder.py --handbrakecli_path "C:\handbrakecli\HandbrakeCLI" --recordings_path "C:\TV Recordings" --preset "Very Fast 720p30" --encoder_to_use x264 --extra_args "--cfr -s 1"
